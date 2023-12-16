@@ -12,9 +12,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height:150vh;
+    height:100vh;
     background-color: rgba(168, 167, 167, 0.6);
-  }
+}
+
   /*Create the card container*/
   .birthdayCard {
     position: relative;
