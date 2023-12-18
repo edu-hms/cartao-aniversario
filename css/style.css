@@ -82,7 +82,7 @@ body {
   }
   
   .toyou {
-    top:123px;
+    top:120px;
   }
   
   .bday {
@@ -258,3 +258,16 @@ body {
   .name {
     margin-left:150px;
   }
+
+  /* Botão teste */
+
+  .botao {
+  transition-duration: 0.4s;
+  color: black;
+  border: 1px solid rgb(241, 73, 61);
+  border-radius: 15px;
+  font-family: 'Poppins';
+  font-weight: bold;
+  width: 100px;
+  height: 25px;
+}
